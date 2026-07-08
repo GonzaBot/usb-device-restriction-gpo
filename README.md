@@ -37,11 +37,11 @@ La solución es invertir el enfoque: en lugar de bloquear a todos y exceptuar a 
 
 **Usuario estándar (`testuser`) — acceso denegado:** el pendrive se monta (`PENDRIVE (E:)` visible en el panel lateral), pero el contenido queda bloqueado por directiva, no por un fallo físico.
 
-![Acceso denegado para el usuario estándar](/screenshots/07-testuser-acceso-denegado.png)
+![Acceso denegado para el usuario estándar](screenshots/7-location-is-not-available.png)
 
 **Administrador — acceso permitido:** el mismo dispositivo, en el mismo equipo, abre y muestra su contenido.
 
-![Acceso permitido para el administrador](screenshots/08-admin-acceso-permitido.png)
+![Acceso permitido para el administrador](screenshots/8-el-administrador-tiene-permitido.png)
 
 El mismo pendrive, en el mismo equipo, con dos resultados distintos según la cuenta: eso es lo que demuestra que la excepción por grupo funciona.
 
