@@ -37,7 +37,7 @@ La solución es invertir el enfoque: en lugar de bloquear a todos y exceptuar a 
 
 **Usuario estándar (`testuser`) — acceso denegado:** el pendrive se monta (`PENDRIVE (E:)` visible en el panel lateral), pero el contenido queda bloqueado por directiva, no por un fallo físico.
 
-![Acceso denegado para el usuario estándar](screenshots/07-testuser-acceso-denegado.png)
+![Acceso denegado para el usuario estándar](/screenshots/07-testuser-acceso-denegado.png)
 
 **Administrador — acceso permitido:** el mismo dispositivo, en el mismo equipo, abre y muestra su contenido.
 
